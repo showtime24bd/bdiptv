@@ -6,8 +6,6 @@ https://cdn1.aliflailabd.com/gazi-tv/tracks-v1a1/mono.m3u8
 https://cdn1.aliflailabd.com/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" ,PTV SPORTS
 http://15.1.1.10:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,A SPORTS
-http://160.238.0.66/load/asports/chunks.m3u8
 #EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" ,SPORTS 18
 http://15.1.1.10:8282/en3-37/tracks-v1a1/mono.m3u8
 #EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" ,WILLOW CRICKET 

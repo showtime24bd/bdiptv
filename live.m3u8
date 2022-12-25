@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,GTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,GTV
 https://cdn1.aliflailabd.com/gazi-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-2 tvg-logo="http://15.1.5.14/assets/images/tsports.jpg" ,T Sports
 https://cdn1.aliflailabd.com/tsports/tracks-v1a1/mono.m3u8
@@ -116,13 +116,44 @@ http://15.1.1.34:8282/colorsindia/tracks-v1a1/mono.m3u8
 http://103.143.235.50/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-53 tvg-logo="http://15.1.5.14/assets/images/nationalgeobd.jpg" , NATIONAL GEOGRAPHICS
 http://103.143.235.50/National_Geographic/tracks-v1a1/mono.m3u8
-#EXTINF:-54 tvg-logo="http://15.1.5.14/assets/images/animalplanetnew.jpg" ANIMAL PLANENT
+#EXTINF:-54 tvg-logo="http://15.1.5.14/assets/images/animalplanetnew.jpg" , ANIMAL PLANENT
 http://103.143.235.50/animalplanent/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-52 tvg-logo="dd" , SONY MAX
+http://15.1.1.10:8282/Sony-Max/tracks-v1a1/mono.m3u8
+
+#EXTINF:-52 tvg-logo="dd" ,
+
+
+#EXTINF:-52 tvg-logo="dd" , ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+
+XTINF:-52 tvg-logo="dd" , ZEE CINEMA
+http://103.143.235.50/zeecinemahd/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-52 tvg-logo="dd" ,UTV ACTION
+http://103.143.235.50/utvaction/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-52 tvg-logo="dd" ,B4U MOVIES
+http://208.86.19.13:81/636.stream/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-55 tvg-logo="http://15.1.5.14/assets/images/atnmusic.jpg" ,ATN_MUSIC_HD
 http://15.1.1.34:8282/ATN-MUSIC/tracks-v1a1/mono.m3u8
-#EXTINF:-56 tvg-logo="http://15.1.5.14/assets/images/gaanbangla.jpg" GAANBANGLA
+#EXTINF:-56 tvg-logo="http://15.1.5.14/assets/images/gaanbangla.jpg" ,GAANBANGLA
 http://15.1.1.10:8282/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-57 tvg-logo="http://15.1.5.14/assets/images/9xjalwa.jpg" ,9X JALWA
 http://15.1.1.34:8282/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8

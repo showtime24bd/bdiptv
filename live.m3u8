@@ -127,7 +127,7 @@ http://15.1.1.10:8282/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-52 tvg-logo="dd" , ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
 
-XTINF:-52 tvg-logo="dd" , ZEE CINEMA
+#EXTINF:-52 tvg-logo="dd" , ZEE CINEMA
 http://103.143.235.50/zeecinemahd/tracks-v1a1/mono.m3u8
 
 

@@ -7,7 +7,7 @@ https://cdn1.aliflailabd.com/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" ,PTV SPORTS
 http://15.1.1.10:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" ,SPORTS 18
-http://15.1.1.10:8282/en3-37/tracks-v1a1/mono.m3u8
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=282665&extension=ts&play_token=qWozOIBZjt
 #EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" ,WILLOW CRICKET 
 http://15.1.5.14:8082/willow-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-7 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,WILLOW XTRA
@@ -23,7 +23,7 @@ http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=809451&ex
 
 
 #EXTINF:-12 tvg-logo="http://15.1.5.14/assets/images/starsports1.jpg"   ,STAR SPORTS 1
-http://103.143.235.50/stersports1hd/tracks-v1a1/mono.m3u8
+http://supermega.vip:25461/cheryl/cheryl/56776
 #EXTINF:-13 tvg-logo="http://15.1.5.14/assets/images/starsports2.jpg"   ,STAR SPORTS 2
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862745&extension=ts
 #EXTINF:-14 tvg-logo="http://15.1.5.14/assets/images/starselect1.jpg" ,STAR SELECT 1

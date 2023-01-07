@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,GTV
-https://github.com/vipjihad/bdiptv/blob/2023/video.mp4?raw=true
+https://cdn1.aliflailabd.com/nagorik-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-2 tvg-logo="http://15.1.5.14/assets/images/tsports.jpg" ,T Sports
 https://cdn1.aliflailabd.com/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" ,PTV SPORTS

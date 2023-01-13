@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,GTV
+#EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" , LIVE 1
  http://172.16.50.2:8082/Live-2/tracks-v1a1/mono.m3u8
- #EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,GTV
+ #EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,LIVE 2
  http://172.16.50.2:8082/Live-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,GTV
+#EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,LIVE 3
  http://172.16.50.2:8082/Live-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,GTV

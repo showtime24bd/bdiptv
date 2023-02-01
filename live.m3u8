@@ -36,11 +36,11 @@ http://208.86.19.13:81/60222.stream/index.m3u8
 
 
 #EXTINF:-12 tvg-logo="http://15.1.5.14/assets/images/starsports1.jpg"   ,STAR SPORTS 1
-http://supermega.vip:25461/cheryl/cheryl/56776
+http://102.222.232.18:9981/stream/channelid/1905027567
 #EXTINF:-13 tvg-logo="http://15.1.5.14/assets/images/starsports2.jpg"   ,STAR SPORTS 2
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862745&extension=ts
 #EXTINF:-14 tvg-logo="http://15.1.5.14/assets/images/starselect1.jpg" ,STAR SELECT 1
-http://208.86.19.13:81/7366.stream/index.m3u8
+http://102.222.232.18:9981/stream/channelid/1221436021
 #EXTINF:-15 tvg-logo="http://15.1.5.14/assets/images/starselect2.jpg" ,STAR SELECT 2
 http://15.1.1.10:8282/select2/tracks-v1a1/mono.m3u8
 #EXTINF:-16 tvg-logo="http://15.1.5.14/assets/images/ten1hd.jpg"   ,SONY SPORTS 1
@@ -52,7 +52,7 @@ http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862728&ex
 #EXTINF:-19 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" ,SONY SPORTS 4
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862729&extension=ts
 #EXTINF:-20 tvg-logo="http://15.1.5.14/assets/images/sonysixhd.jpg" ,SONY SPORTS 5
-http://15.1.1.10:8282/sony-six-hd/tracks-v1a1/mono.m3u8
+http://102.222.232.18:9981/stream/channelid/1416061251
 
 
 #EXTINF:-21 tvg-logo="http://15.1.1.10/assets/images/btv.jpg" ,BTV

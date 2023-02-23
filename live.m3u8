@@ -5,8 +5,8 @@ http://212.224.84.217:2200/R-EX/PAK_ASPORT-HD-in/tracks-v1a1/mono.m3u8?token=tes
 http://212.224.84.217:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://propakistani.pk/wp-content/themes/ppv5/psl-templates/logos/psl-logo-8.png" , LIVE
 http://212.224.84.217:2200/R-EX/TEN_SPORTS_PK-in/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://propakistani.pk/wp-content/themes/ppv5/psl-templates/logos/psl-logo-8.png" ,LIVE
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://propakistani.pk/wp-content/themes/ppv5/psl-templates/logos/psl-logo-8.png" , LIVE
+https://epg.pw/stream/0d1624dfb6a46103044bad4cc1c06e1d0e390b6c0f696c9259e87eb27aa4e1ce.m3u8
 
 
 

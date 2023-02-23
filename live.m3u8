@@ -106,7 +106,7 @@ http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-43 tvg-logo="http://15.1.5.14/assets/images/zeebanglahd.jpg" ,ZEE_BANGLA_HD
 http://15.1.1.34:8282/zee-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-44 tvg-logo="http://15.1.5.14/assets/images/starjalshahd.jpg" ,STAR JALSHA
+#EXTINF:-44 tvg-logo="http://15.1.5.14/assets/images/starshahd.jpg" ,STAR JALSHA
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862988&extension=ts&play_token=VRW07gXmnZ
 #EXTINF:-45 tvg-logo="http://15.1.5.14/assets/images/colorsbangla.jpg" ,COLORS BANGLA
 http://103.143.235.50/colorsbangla/tracks-v1a1/mono.m3u8

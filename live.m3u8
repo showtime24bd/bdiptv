@@ -1,13 +1,11 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" , LIVE 1
- http://172.16.50.2:8082/Live-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,LIVE 2
-http://103.213.238.70/NagorikTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,LIVE 3
-http://172.16.50.2:8082/Live-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,LIVE 4
-https://cdn1.aliflailabd.com/nagorik-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://propakistani.pk/wp-content/themes/ppv5/psl-templates/logos/psl-logo-8.png" , LIVE
+http://212.224.84.217:2200/R-EX/PAK_ASPORT-HD-in/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://propakistani.pk/wp-content/themes/ppv5/psl-templates/logos/psl-logo-8.png" , LIVE
+http://212.224.84.217:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://propakistani.pk/wp-content/themes/ppv5/psl-templates/logos/psl-logo-8.png" , LIVE
+http://212.224.84.217:2200/R-EX/TEN_SPORTS_PK-in/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://propakistani.pk/wp-content/themes/ppv5/psl-templates/logos/psl-logo-8.png" , LIVE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,GTV
 https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/201

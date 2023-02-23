@@ -11,7 +11,7 @@ https://epg.pw/stream/0d1624dfb6a46103044bad4cc1c06e1d0e390b6c0f696c9259e87eb27a
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,GTV
-https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/201
+http://10.21.56.46:9191/gazi-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-2 tvg-logo="http://15.1.5.14/assets/images/tsports.jpg" ,T Sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 

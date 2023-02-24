@@ -16,44 +16,44 @@ http://10.21.56.46:9191/gazi-tv/tracks-v1a1/mono.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" ,PTV SPORTS
-http://15.1.1.10:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
+https://epg.pw/stream/96717d75d710525bfff68cf0ef9db59df7cea9739c1630341347c7748c2de737.m3u8
 #EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" ,SPORTS 18
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=282665&extension=ts&play_token=qWozOIBZjt
 #EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" ,WILLOW CRICKET 
-http://15.1.5.14:8082/willow-hd/tracks-v1a1/mono.m3u8
+https://epg.pw/stream/019e036318572cd9b1ffbafc2133debf68e71ce0fa619a639042798fb7cff846.ctv
 #EXTINF:-7 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,WILLOW XTRA
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=603036&extension=ts
+https://epg.pw/stream/482efe7dab19792329dcfb4ad1edfaa44b25befe24069ed2023ae52a48f59e68.ctv
 #EXTINF:-8 tvg-logo="https://supersport.com/_next/image?url=%2Fimages%2Fsupersport-logo.png&w=1920&q=75" ,SUPER FOOTBALL
+https://epg.pw/stream/62fa4ff2a97096b8c63022d853bd9055b6233fac95aeaded73801f6a2842baad.ctv
 #EXTINF:-8 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" ,Astro CRICKET
-http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54242.ts
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=610011&extension=ts
 #EXTINF:-9 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/0/1/8/1339018_skysportscricket_810710.jpg"   ,SKY CRICKET
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=623906&extension=ts
+https://epg.pw/stream/e1479cd661eb611a602536427d48b7512dc665ccdc17997d5a49ca108e54164d.ctv
 #EXTINF:-10 tvg-logo="https://th.bing.com/th/id/OIF.OtLnVehjTd8TMx1D8LJ3YA?pid=ImgDet&rs=1"  ,SUPER CRICKET
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=610018&extension=ts
+https://epg.pw/stream/6951b928d799606ba627c1869c7a9526e6ad2a446d5e9b9eaf47f9f07bdf749d.ctv
 #EXTINF:-11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png"    ,TEN SPORTS
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=809451&extension=ts
-http://208.86.19.13:81/60222.stream/index.m3u8
+https://epg.pw/stream/228f41f659308ede45b5d47e62a848760caa4a6abf111742f3ee173ec858a3a9.ctv
+https://epg.pw/stream/228f41f659308ede45b5d47e62a848760caa4a6abf111742f3ee173ec858a3a9.ctv
 
 
 #EXTINF:-12 tvg-logo="http://15.1.5.14/assets/images/starsports1.jpg"   ,STAR SPORTS 1
-http://102.222.232.18:9981/stream/channelid/1905027567
+https://epg.pw/stream/bedb2b1c01f384009908bc7aaac48b93dd58f429930e75ff4d6186915a3dbc32.m3u8
 #EXTINF:-13 tvg-logo="http://15.1.5.14/assets/images/starsports2.jpg"   ,STAR SPORTS 2
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862745&extension=ts
+https://epg.pw/stream/fa83362ae74e49615afe34ece3ccda4554078c6e245a673998fc0b3479c237d6.m3u8
 #EXTINF:-14 tvg-logo="http://15.1.5.14/assets/images/starselect1.jpg" ,STAR SELECT 1
 http://102.222.232.18:9981/stream/channelid/1221436021
 #EXTINF:-15 tvg-logo="http://15.1.5.14/assets/images/starselect2.jpg" ,STAR SELECT 2
-http://15.1.1.10:8282/select2/tracks-v1a1/mono.m3u8
+https://epg.pw/stream/f319fb2e7baf736e2377146e09c8e3d59001b9ad6613f6da1232753e56f1af4a.ctv
 #EXTINF:-16 tvg-logo="http://15.1.5.14/assets/images/ten1hd.jpg"   ,SONY SPORTS 1
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862726&extension=ts
+https://epg.pw/stream/07924e75dcb2ab7a2c4e67d3938edc3777f87fea0224b4d5f6d6cecbb15a6b50.ctv
 #EXTINF:-17 tvg-logo="http://15.1.5.14/assets/images/ten2hd.jpg" ,SONY SPORTS 2
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862727&extension=ts
+https://epg.pw/stream/0d1624dfb6a46103044bad4cc1c06e1d0e390b6c0f696c9259e87eb27aa4e1ce.m3u8
 #EXTINF:-18 tvg-logo="http://15.1.5.14/assets/images/ten3hd.jpg"  ,SONY SPORTS 3
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862728&extension=ts
+https://epg.pw/stream/689435e619674434de674967c6e81b1ab25dbd40711867e98f2ab5b5ffb00568.m3u8
 #EXTINF:-19 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" ,SONY SPORTS 4
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862729&extension=ts
 #EXTINF:-20 tvg-logo="http://15.1.5.14/assets/images/sonysixhd.jpg" ,SONY SPORTS 5
-http://102.222.232.18:9981/stream/channelid/1416061251
+https://epg.pw/stream/898491afbb6536f93995c41f594d10c1e155d297642a6424cb84a05b2f5f7bd1.m3u8
 
 
 #EXTINF:-21 tvg-logo="http://15.1.1.10/assets/images/btv.jpg" ,BTV

@@ -39,7 +39,7 @@ https://epg.pw/stream/228f41f659308ede45b5d47e62a848760caa4a6abf111742f3ee173ec8
 #EXTINF:-12 tvg-logo="http://15.1.5.14/assets/images/starsports1.jpg"   ,STAR SPORTS 1
 https://epg.pw/stream/bedb2b1c01f384009908bc7aaac48b93dd58f429930e75ff4d6186915a3dbc32.m3u8
 #EXTINF:-13 tvg-logo="http://15.1.5.14/assets/images/starsports2.jpg"   ,STAR SPORTS 2
-https://epg.pw/stream/fa83362ae74e49615afe34ece3ccda4554078c6e245a673998fc0b3479c237d6.m3u8
+http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
 #EXTINF:-14 tvg-logo="http://15.1.5.14/assets/images/starselect1.jpg" ,STAR SELECT 1
 http://102.222.232.18:9981/stream/channelid/1221436021
 #EXTINF:-15 tvg-logo="http://15.1.5.14/assets/images/starselect2.jpg" ,STAR SELECT 2

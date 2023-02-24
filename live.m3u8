@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="https://propakistani.pk/wp-content/themes/ppv5/psl-templates/logos/psl-logo-8.png" , LIVE
 http://212.224.84.217:2200/R-EX/PAK_ASPORT-HD-in/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://propakistani.pk/wp-content/themes/ppv5/psl-templates/logos/psl-logo-8.png" , LIVE
-http://212.224.84.217:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=test
+https://epg.pw/stream/96717d75d710525bfff68cf0ef9db59df7cea9739c1630341347c7748c2de737.m3u8
 #EXTINF:-1 tvg-logo="https://propakistani.pk/wp-content/themes/ppv5/psl-templates/logos/psl-logo-8.png" , LIVE
-http://212.224.84.217:2200/R-EX/TEN_SPORTS_PK-in/index.m3u8?token=test
+https://epg.pw/stream/228f41f659308ede45b5d47e62a848760caa4a6abf111742f3ee173ec858a3a9.ctv
 #EXTINF:-1 tvg-logo="https://propakistani.pk/wp-content/themes/ppv5/psl-templates/logos/psl-logo-8.png" , LIVE
 https://epg.pw/stream/0d1624dfb6a46103044bad4cc1c06e1d0e390b6c0f696c9259e87eb27aa4e1ce.m3u8
 
